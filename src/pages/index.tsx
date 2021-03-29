@@ -8,7 +8,7 @@ export default function Index() {
     <>
       <Header titlePre="Home" />
       <div className={sharedStyles.layout}>
-        <h1>g_nemo9 blog</h1>
+        <h1>Home</h1>
       </div>
     </>
   )
